@@ -37,32 +37,63 @@ if (valor1 == valor2)
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,mysql,bootstrap,cs,javascript,vscode,visualstudio,markdown,github&perline=6)
 
-# Header "H1"
-
-## Header "H2"
-
-### Header "H3"
-
-## Estilização de texto:
+### Estilização de texto:
 
 **Texto em negrito** / *Em itálico* / ~~Rasurado~~ / **Negrito com _partes em itálico_** / ***Negrito e itálico*** / <sub>Texto pitico pra baixo</sub> / <sup>Texto pitico pra cima</sup> / <ins>Com underline</ins>
 
+### Citação:
+
 > Essa é uma citação, maneiro demais.
+
+### Citando códigos:
 
 Citando códigos como `MessageBox.Show("Código citado!");`
 
-Bloco de código
+### Criando blocos de código:
 
 ```
 MessageBox.Show("Esse código está em um bloco!");
 ```
 
-Bloco de código com highlight de sintaxe
+Bloco de código com highlight de sintaxe:
 
 ``` cs
 MessageBox.Show("Esse código está em um bloco com highlight de sintaxe da linguagem C#");
 ```
 
-## Visualização de cores
+### Links e âncoras:
 
-`#0969DA`
+Essa atividade está sendo realizada com a ajuda da página [Documentos do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), e também a utilizei de exemplo para a criação de um link!
+
+Caso queira voltar para o topo, [clique aqui](#registro-c)!
+
+Os gitattributes desse repositório se encontram [aqui](.gitattributes)!
+
+``` html
+<a name="ancora-customizada"></a>
+Existe uma âncora customizada em cima de mim!
+```
+
+<a name="ancora-customizada"></a>
+Existe uma âncora customizada em cima de mim!
+
+### Quebras de linha
+
+Quebrando com dois espaços  
+Linha após a quebra
+
+Quebrando com barra\
+Linha após a quebra
+
+Quebrando com `<br/>`<br/>Linha após a quebra
+
+Quebrando a linha com uma linha em branco
+
+Linha após a linha em branco
+
+1. Lista com outra lista dentro
+    - Lista dentro da lista
+        - Lista dentro da lista dentro da lista
+
+- [x] Tarefa completa
+- [ ] Tarefa incompleta
