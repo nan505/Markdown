@@ -131,3 +131,10 @@ Iradíssimo!
 ### Ignorando a formatação do Markdown:
 
 Era para a palavra \*sabugo\* estar em itálico, mas os caractere `\` impedem a formatação do Markdown.
+
+## Tabelas:
+
+| Nome do Digimon | Atributo do Digimon |
+| --- | --- |
+| Agumon |  Vírus / Vacina |
+| Gabumon | Data / Vacina / Vírus |
