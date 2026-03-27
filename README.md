@@ -91,12 +91,16 @@ Quebrando a linha com uma linha em branco
 
 Linha após a linha em branco
 
+### Listas e tarefas (checkbox):
+
 1. Lista com outra lista dentro
     - Lista dentro da lista
         - Lista dentro da lista dentro da lista
 
 - [x] Tarefa completa
 - [ ] Tarefa incompleta
+
+### Referências:
 
 Criando referências[^1].
 
@@ -106,3 +110,24 @@ Essas referências podem ter mais de uma linha também[^2], muito massa!
 
 [^2]: Referência com duas linhas utilizando os dois espaços  
 Iradíssimo!
+
+### Alertas:
+
+> [!NOTE]
+> Esse é um alerta de nota, geralmente contém informações que o usuário deveria saber!
+
+> [!TIP]
+> Esse é um alerta de dica, geralmente contém informações adicionais para facilitar o entendimento pelo usuário.
+
+> [!IMPORTANT]
+> Esse é um alerta importante, geralmente contém informações indispensáveis que o usuário precisa saber.
+
+> [!WARNING]
+> Esse é um alerta de aviso, geralmente contém informações para que o usuário não cometa erros.
+
+> [!CAUTION]
+> Esse é um alerta de cuidado, geralmente para avisar o usuário sobre ações que podem ser realizadas pela conta e risco do usuário.
+
+### Ignorando a formatação do Markdown:
+
+Era para a palavra \*sabugo\* estar em itálico, mas os caractere `\` impedem a formatação do Markdown.
