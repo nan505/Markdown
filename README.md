@@ -136,5 +136,12 @@ Era para a palavra \*sabugo\* estar em itálico, mas os caractere `\` impedem a 
 
 | Nome do Digimon | Atributo do Digimon |
 | --- | --- |
-| Agumon |  Vírus / Vacina |
+| Agumon | Vírus / Vacina |
 | Gabumon | Data / Vacina / Vírus |
+
+Formatação da tabela
+
+| Nome do Digimon | Tipo | Atributo |
+| :--- | :---: | ---: |
+| Agumon | **Réptil** | `Vírus / Vacina` |
+| Gabumon | **Réptil** | `Data / Vacina / Vírus` |
