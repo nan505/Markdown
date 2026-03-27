@@ -36,3 +36,33 @@ if (valor1 == valor2)
 
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,mysql,bootstrap,cs,javascript,vscode,visualstudio,markdown,github&perline=6)
+
+# Header "H1"
+
+## Header "H2"
+
+### Header "H3"
+
+## Estilização de texto:
+
+**Texto em negrito** / *Em itálico* / ~~Rasurado~~ / **Negrito com _partes em itálico_** / ***Negrito e itálico*** / <sub>Texto pitico pra baixo</sub> / <sup>Texto pitico pra cima</sup> / <ins>Com underline</ins>
+
+> Essa é uma citação, maneiro demais.
+
+Citando códigos como `MessageBox.Show("Código citado!");`
+
+Bloco de código
+
+```
+MessageBox.Show("Esse código está em um bloco!");
+```
+
+Bloco de código com highlight de sintaxe
+
+``` cs
+MessageBox.Show("Esse código está em um bloco com highlight de sintaxe da linguagem C#");
+```
+
+## Visualização de cores
+
+`#0969DA`
