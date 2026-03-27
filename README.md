@@ -104,5 +104,5 @@ Essas referências podem ter mais de uma linha também[^2], muito massa!
 
 [^1]: Se liga na referência!
 
-[^2:] Referência com duas linhas utilizando os dois espaços  
+[^2]: Referência com duas linhas utilizando os dois espaços  
 Iradíssimo!
